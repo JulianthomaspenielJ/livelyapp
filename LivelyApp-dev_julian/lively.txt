@@ -1,0 +1,4 @@
+file('livelyKS.jks')
+storePassword 'livelyKS' 
+keyAlias 'key0'
+keyPassword 'livelyKS'
